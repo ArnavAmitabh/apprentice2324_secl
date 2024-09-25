@@ -1,0 +1,1 @@
+in current directory, run composer require phpmailer/phpmailer
